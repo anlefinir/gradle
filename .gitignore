@@ -5,7 +5,7 @@
 build
 
 # Ignore Travis CI
-.travis.yml
+src/main/java/TestGradleOne/.travis.yml
 
 # Package Files #
 .idea
